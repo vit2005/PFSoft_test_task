@@ -1,0 +1,10 @@
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\PFSoft_test_task_VitaliyD\PFSoft_test_task_VitaliyD\bin\Debug\PFSoft_test_task_VitaliyD.exe
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\PFSoft_test_task_VitaliyD\PFSoft_test_task_VitaliyD\bin\Debug\PFSoft_test_task_VitaliyD.pdb
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\PFSoft_test_task_VitaliyD\PFSoft_test_task_VitaliyD\obj\Debug\PFSoft_test_task_VitaliyD.Properties.Resources.resources
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\PFSoft_test_task_VitaliyD\PFSoft_test_task_VitaliyD\obj\Debug\PFSoft_test_task_VitaliyD.csproj.GenerateResource.Cache
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\PFSoft_test_task_VitaliyD\PFSoft_test_task_VitaliyD\obj\Debug\PFSoft_test_task_VitaliyD.exe
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\PFSoft_test_task_VitaliyD\PFSoft_test_task_VitaliyD\obj\Debug\PFSoft_test_task_VitaliyD.pdb
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\PFSoft_test_task_VitaliyD\PFSoft_test_task_VitaliyD\obj\Debug\PFSoft_test_task_VitaliyD.MainForm.resources
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\PFSoft_test_task_VitaliyD\PFSoft_test_task_VitaliyD\bin\Debug\en\PFSoft_test_task_VitaliyD.resources.dll
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\PFSoft_test_task_VitaliyD\PFSoft_test_task_VitaliyD\obj\Debug\PFSoft_test_task_VitaliyD.MainForm.en.resources
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\PFSoft_test_task_VitaliyD\PFSoft_test_task_VitaliyD\obj\Debug\en\PFSoft_test_task_VitaliyD.resources.dll

@@ -1,0 +1,8 @@
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\PFSoft_test_task_VitaliyD\PFSoft_test_task_VitaliyD_unittests\obj\Debug\PFSoft_test_task_VitaliyD_unittests.csprojResolveAssemblyReference.cache
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\PFSoft_test_task_VitaliyD\PFSoft_test_task_VitaliyD_unittests\bin\Debug\PFSoft_test_task_VitaliyD_unittests.dll
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\PFSoft_test_task_VitaliyD\PFSoft_test_task_VitaliyD_unittests\bin\Debug\PFSoft_test_task_VitaliyD_unittests.pdb
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\PFSoft_test_task_VitaliyD\PFSoft_test_task_VitaliyD_unittests\bin\Debug\PFSoft_test_task_VitaliyD.exe
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\PFSoft_test_task_VitaliyD\PFSoft_test_task_VitaliyD_unittests\bin\Debug\PFSoft_test_task_VitaliyD.pdb
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\PFSoft_test_task_VitaliyD\PFSoft_test_task_VitaliyD_unittests\bin\Debug\en\PFSoft_test_task_VitaliyD.resources.dll
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\PFSoft_test_task_VitaliyD\PFSoft_test_task_VitaliyD_unittests\obj\Debug\PFSoft_test_task_VitaliyD_unittests.dll
+C:\Users\Vit\Documents\Visual Studio 2013\Projects\PFSoft_test_task_VitaliyD\PFSoft_test_task_VitaliyD_unittests\obj\Debug\PFSoft_test_task_VitaliyD_unittests.pdb
